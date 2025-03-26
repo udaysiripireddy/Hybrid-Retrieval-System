@@ -50,6 +50,7 @@ pip install -r requirements.txt -i https://pypi.org/simple
 1. Clone the Repository
 
 git clone https://github.com/your-repo/bm25_bert_hybrid_project.git
+
 cd bm25_bert_hybrid_project
 
 
